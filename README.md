@@ -33,7 +33,11 @@ Basit bir dönem projesiydi  ilk versiyonu Nesne yönelimli programlamaya yönel
 İyi oyunlar, iyi geliştirmeler... <3
 
 ## Ekran Görüntüleri
-
+![Screenshot 2023-06-25 003641](https://github.com/ErenElagz/Ciftlik-Yonetim-Oyunu/assets/125195062/e997beb2-5dc8-4aeb-8c44-80eccf7a11c8)
+![Screenshot 2023-06-25 003623](https://github.com/ErenElagz/Ciftlik-Yonetim-Oyunu/assets/125195062/1b231556-aaf2-4273-b5ec-bf512827f121)
+![Screenshot 2023-06-25 003657](https://github.com/ErenElagz/Ciftlik-Yonetim-Oyunu/assets/125195062/806a09a3-4396-4440-aafa-30952de03acf)
+![Screenshot 2023-06-25 003710](https://github.com/ErenElagz/Ciftlik-Yonetim-Oyunu/assets/125195062/36708c6b-4b22-46cc-9ff8-a3b136012788)
+![Screenshot 2023-06-25 003729](https://github.com/ErenElagz/Ciftlik-Yonetim-Oyunu/assets/125195062/8dd1a600-5d7e-4365-add7-a4d9989360e9)
 
 ## Lisans
 [MIT](https://choosealicense.com/licenses/mit/)
