@@ -220,7 +220,7 @@ def GubreTuketimi():
         print("Gübre Tüketimi:", ((pamuk.adet * 2) +(bugday.adet * 2)+(aycicegi.adet * 3)))
 
     else:
-        print("Yeterli Kaynak Yok. Eğer Saman Almazsanız Hayvanlarınız Ölmeye Başlayacak.")
+        print("Yeterli Kaynak Yok. Eğer Gübre Almazsanız Bitkileriniz Solmaya Başlayacak.")
         print("Solan Pamuk  Sayısı   :", 2)
         print("Solan Buğday Sayısı   :", 2)
         print("Solan Ayçiçeği Sayısı :", 3)
